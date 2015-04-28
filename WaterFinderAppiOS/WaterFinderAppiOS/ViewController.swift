@@ -11,6 +11,16 @@ import MapKit
 import CoreLocation
 
 class ViewController: UIViewController {
+    @IBOutlet weak var mapView: MKMapView!
+    
+    
+    
+    // Code to specify the zoom level of the map
+    let regionRadius: CLLocationDistance = 1000
+    func centerMapOnLocation (location: CLLocation) {
+        let coordinateRegion = MKCoordinateRegionMakeWithDistance(location.coordinate, regionRadius * 10.0, regionRadius * 10.0)
+        mapView.setRegion(coordinateRegion, animated: true)
+    }
     
     //Development Notes:
     //Will need to use Parse to store data from users
@@ -23,6 +33,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        // Hard code the initial location for now
+        let initialLocation = CLLocation(latitude: 0.261211, longitude: 32.535113)
+        
+        centerMapOnLocation(initialLocation)
+
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

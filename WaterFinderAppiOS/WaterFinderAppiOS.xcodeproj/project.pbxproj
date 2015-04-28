@@ -17,6 +17,7 @@
 		78ACFC921AE496E500523558 /* MapRedPin.png in Resources */ = {isa = PBXBuildFile; fileRef = 78ACFC911AE496E500523558 /* MapRedPin.png */; };
 		78ACFC941AE499B800523558 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78ACFC931AE499B800523558 /* OptionsViewController.swift */; };
 		78ACFC961AE49D2400523558 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78ACFC951AE49D2400523558 /* DetailViewController.swift */; };
+		78EEE7A31AEFC22400E7F818 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78EEE7A21AEFC22300E7F818 /* MapKit.framework */; };
 		FD88B9514745AD40BD97A626 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B7B268FD1196AE62B764C07 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +48,7 @@
 		78ACFC911AE496E500523558 /* MapRedPin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MapRedPin.png; sourceTree = "<group>"; };
 		78ACFC931AE499B800523558 /* OptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 		78ACFC951AE49D2400523558 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		78EEE7A21AEFC22300E7F818 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		8B7B268FD1196AE62B764C07 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78EEE7A31AEFC22400E7F818 /* MapKit.framework in Frameworks */,
 				FD88B9514745AD40BD97A626 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -72,6 +75,7 @@
 		1E917F56D4ACEC979C71125E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				78EEE7A21AEFC22300E7F818 /* MapKit.framework */,
 				8B7B268FD1196AE62B764C07 /* libPods.a */,
 			);
 			name = Frameworks;
@@ -199,6 +203,11 @@
 				TargetAttributes = {
 					789960BC1AE493EC006C1AD6 = {
 						CreatedOnToolsVersion = 6.3;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					789960D41AE493EC006C1AD6 = {
 						CreatedOnToolsVersion = 6.3;
