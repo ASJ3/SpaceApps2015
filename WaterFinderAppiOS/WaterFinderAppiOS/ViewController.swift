@@ -10,7 +10,7 @@ import UIKit
 import MapKit
 import CoreLocation
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, MKMapViewDelegate {
     @IBOutlet weak var mapView: MKMapView!
     
     
@@ -37,6 +37,8 @@ class ViewController: UIViewController {
         let initialLocation = CLLocation(latitude: 0.261211, longitude: 32.535113)
         
         centerMapOnLocation(initialLocation)
+        // Show a blue translucent ball indicating the user current location (or the simulated location in the iOS simulator)
+        mapView.showsUserLocation = true
 
         
         
