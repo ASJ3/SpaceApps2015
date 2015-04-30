@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		783BF0071AF1B93200CA655A /* locations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 783BF0061AF1B93200CA655A /* locations.plist */; };
 		789960C31AE493EC006C1AD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789960C21AE493EC006C1AD6 /* AppDelegate.swift */; };
 		789960C61AE493EC006C1AD6 /* WaterFinderAppiOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 789960C41AE493EC006C1AD6 /* WaterFinderAppiOS.xcdatamodeld */; };
 		789960C81AE493EC006C1AD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789960C71AE493EC006C1AD6 /* ViewController.swift */; };
@@ -34,6 +35,7 @@
 /* Begin PBXFileReference section */
 		014CD8E0611B586FAB227D96 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		2E117B4723F6DDE213C8EF1B /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		783BF0061AF1B93200CA655A /* locations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = locations.plist; sourceTree = "<group>"; };
 		789960BD1AE493EC006C1AD6 /* WaterFinderAppiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterFinderAppiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		789960C11AE493EC006C1AD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		789960C21AE493EC006C1AD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 			children = (
 				78ACFC911AE496E500523558 /* MapRedPin.png */,
 				789960C11AE493EC006C1AD6 /* Info.plist */,
+				783BF0061AF1B93200CA655A /* locations.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 			files = (
 				78ACFC921AE496E500523558 /* MapRedPin.png in Resources */,
 				789960CB1AE493EC006C1AD6 /* Main.storyboard in Resources */,
+				783BF0071AF1B93200CA655A /* locations.plist in Resources */,
 				789960D01AE493EC006C1AD6 /* LaunchScreen.xib in Resources */,
 				789960CD1AE493EC006C1AD6 /* Images.xcassets in Resources */,
 			);

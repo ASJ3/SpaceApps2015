@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Well #1</string>
+		<key>latitude</key>
+		<real>0.273734</real>
+		<key>longitude</key>
+		<real>32.54697</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Spring #3</string>
+		<key>latitude</key>
+		<real>0.284742</real>
+		<key>longitude</key>
+		<real>32.550714</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Pond #15</string>
+		<key>latitude</key>
+		<real>0.271696</real>
+		<key>longitude</key>
+		<real>32.520416</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Well #5</string>
+		<key>latitude</key>
+		<real>0.249294</real>
+		<key>longitude</key>
+		<real>32.525051</real>
+	</dict>
+</array>
+</plist>
