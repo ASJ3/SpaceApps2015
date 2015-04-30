@@ -30,7 +30,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     // Code to specify the zoom level of the map
     let regionRadius: CLLocationDistance = 1000
     func centerMapOnLocation (location: CLLocation) {
-        let coordinateRegion = MKCoordinateRegionMakeWithDistance(location.coordinate, regionRadius * 20.0, regionRadius * 20.0)
+        let coordinateRegion = MKCoordinateRegionMakeWithDistance(location.coordinate, regionRadius * 10.0, regionRadius * 10.0)
         mapView.setRegion(coordinateRegion, animated: true)
     }
     
@@ -59,7 +59,10 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         // Ideally, I want to use the locationManager to show a blue translucent ball indicating the user current location (or the simulated location in the iOS simulator)
         //        mapView.showsUserLocation = true
         
+        // Trying to display a watersource on the map as a pin
+        let waterLocation = WaterSource(coordinate: CLLocationCoordinate2D(latitude: 0.285131, longitude: 32.55121))
         
+        mapView.addAnnotation(waterLocation)
         
     }
     

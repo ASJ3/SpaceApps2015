@@ -6,17 +6,17 @@
 		<key>title</key>
 		<string>Well #1</string>
 		<key>latitude</key>
-		<real>0.273734</real>
+		<real>0.285131</real>
 		<key>longitude</key>
-		<real>32.54697</real>
+		<real>32.55121</real>
 	</dict>
 	<dict>
 		<key>title</key>
 		<string>Spring #3</string>
 		<key>latitude</key>
-		<real>0.284742</real>
+		<real>0.2723</real>
 		<key>longitude</key>
-		<real>32.550714</real>
+		<real>32.518422</real>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -30,9 +30,9 @@
 		<key>title</key>
 		<string>Well #5</string>
 		<key>latitude</key>
-		<real>0.249294</real>
+		<real>0.229814</real>
 		<key>longitude</key>
-		<real>32.525051</real>
+		<real>32.546146</real>
 	</dict>
 </array>
 </plist>

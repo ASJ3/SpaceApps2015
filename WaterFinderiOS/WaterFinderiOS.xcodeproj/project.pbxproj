@@ -18,6 +18,7 @@
 		783BF0031AF1B3C400CA655A /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BF0021AF1B3C400CA655A /* OptionsViewController.swift */; };
 		783BF0051AF1B3DF00CA655A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BF0041AF1B3DF00CA655A /* DetailViewController.swift */; };
 		783BF0091AF1B95100CA655A /* locations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 783BF0081AF1B95100CA655A /* locations.plist */; };
+		783BF00B1AF1BBD800CA655A /* WaterSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BF00A1AF1BBD800CA655A /* WaterSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		783BF0021AF1B3C400CA655A /* OptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 		783BF0041AF1B3DF00CA655A /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		783BF0081AF1B95100CA655A /* locations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = locations.plist; sourceTree = "<group>"; };
+		783BF00A1AF1BBD800CA655A /* WaterSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				783BEFE41AF1B0CD00CA655A /* Main.storyboard */,
 				783BF0021AF1B3C400CA655A /* OptionsViewController.swift */,
 				783BF0041AF1B3DF00CA655A /* DetailViewController.swift */,
+				783BF00A1AF1BBD800CA655A /* WaterSource.swift */,
 				783BEFE71AF1B0CD00CA655A /* Images.xcassets */,
 				783BEFE91AF1B0CD00CA655A /* LaunchScreen.xib */,
 				783BEFDF1AF1B0CD00CA655A /* WaterFinderiOS.xcdatamodeld */,
@@ -234,6 +237,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				783BF00B1AF1BBD800CA655A /* WaterSource.swift in Sources */,
 				783BEFE31AF1B0CD00CA655A /* ViewController.swift in Sources */,
 				783BF0031AF1B3C400CA655A /* OptionsViewController.swift in Sources */,
 				783BF0051AF1B3DF00CA655A /* DetailViewController.swift in Sources */,
