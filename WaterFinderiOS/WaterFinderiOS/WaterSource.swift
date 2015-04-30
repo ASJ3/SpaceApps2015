@@ -20,5 +20,13 @@ let coordinate: CLLocationCoordinate2D
         
         super.init()
     }
+    
+//    class func returnLocationInfo(individualLocation: Dictionary) -> WaterSource? {
+//        let title = individualLocation.title
+//        let latitude = individualLocation.latitude
+//        let longitude = individualLocation.longitude
+//        
+//        return WaterSource(coordinate: CLLocationCoordinate2D(latitude: latitude, longitude: longitude))
+//    }
 
 }

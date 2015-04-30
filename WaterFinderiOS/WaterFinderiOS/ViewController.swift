@@ -26,6 +26,13 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     
     var locationManager: CLLocationManager?
     
+    // Array that will hold the info of nearby water sources
+    var waterSources = [WaterSource]()
+    
+    // Hard-coded data of water sources. Later on this will need to be replaced by the data from the locations.plist, and even after that by a CoreData list
+    
+    
+    
     
     // Code to specify the zoom level of the map
     let regionRadius: CLLocationDistance = 1000
@@ -44,6 +51,21 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Adding additional pins to the map to represent waterlocations (this should actually come from the locations.plist
+        let waterLocation0 = WaterSource(coordinate: CLLocationCoordinate2D(latitude: 0.2723, longitude: 32.518422))
+        let waterLocation1 = WaterSource(coordinate: CLLocationCoordinate2D(latitude: 0.263643, longitude: 32.531894))
+        let waterLocation2 = WaterSource(coordinate: CLLocationCoordinate2D(latitude: 0.229814, longitude: 32.546146))
+        
+        self.waterSources.append(waterLocation0)
+        self.waterSources.append(waterLocation1)
+        self.waterSources.append(waterLocation2)
+        
+        
+        
+        
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
         self.locationManager = CLLocationManager()
         self.locationManager?.requestWhenInUseAuthorization()
@@ -63,6 +85,11 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         let waterLocation = WaterSource(coordinate: CLLocationCoordinate2D(latitude: 0.285131, longitude: 32.55121))
         
         mapView.addAnnotation(waterLocation)
+        mapView.addAnnotations(self.waterSources)
+        mapView.delegate = self
+        
+        
+        
         
     }
     
