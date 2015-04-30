@@ -15,6 +15,8 @@
 		783BEFEB1AF1B0CD00CA655A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 783BEFE91AF1B0CD00CA655A /* LaunchScreen.xib */; };
 		783BEFF71AF1B0CD00CA655A /* WaterFinderiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BEFF61AF1B0CD00CA655A /* WaterFinderiOSTests.swift */; };
 		783BF0011AF1B0D800CA655A /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 783BF0001AF1B0D800CA655A /* MapKit.framework */; };
+		783BF0031AF1B3C400CA655A /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BF0021AF1B3C400CA655A /* OptionsViewController.swift */; };
+		783BF0051AF1B3DF00CA655A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783BF0041AF1B3DF00CA655A /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		783BEFF51AF1B0CD00CA655A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		783BEFF61AF1B0CD00CA655A /* WaterFinderiOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterFinderiOSTests.swift; sourceTree = "<group>"; };
 		783BF0001AF1B0D800CA655A /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		783BF0021AF1B3C400CA655A /* OptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
+		783BF0041AF1B3DF00CA655A /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 				783BEFDD1AF1B0CD00CA655A /* AppDelegate.swift */,
 				783BEFE21AF1B0CD00CA655A /* ViewController.swift */,
 				783BEFE41AF1B0CD00CA655A /* Main.storyboard */,
+				783BF0021AF1B3C400CA655A /* OptionsViewController.swift */,
+				783BF0041AF1B3DF00CA655A /* DetailViewController.swift */,
 				783BEFE71AF1B0CD00CA655A /* Images.xcassets */,
 				783BEFE91AF1B0CD00CA655A /* LaunchScreen.xib */,
 				783BEFDF1AF1B0CD00CA655A /* WaterFinderiOS.xcdatamodeld */,
@@ -225,6 +231,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				783BEFE31AF1B0CD00CA655A /* ViewController.swift in Sources */,
+				783BF0031AF1B3C400CA655A /* OptionsViewController.swift in Sources */,
+				783BF0051AF1B3DF00CA655A /* DetailViewController.swift in Sources */,
 				783BEFDE1AF1B0CD00CA655A /* AppDelegate.swift in Sources */,
 				783BEFE11AF1B0CD00CA655A /* WaterFinderiOS.xcdatamodeld in Sources */,
 			);

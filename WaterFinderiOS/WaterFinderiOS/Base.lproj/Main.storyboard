@@ -5,6 +5,60 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
+        <!--Options View Controller-->
+        <scene sceneID="rK7-ju-xEB">
+            <objects>
+                <viewController id="EDb-fi-rdD" customClass="OptionsViewController" customModule="WaterFinderiOS" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Z0H-Av-7DI"/>
+                        <viewControllerLayoutGuide type="bottom" id="La8-nR-V7Z"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="HUl-RR-SZV">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bnC-rP-lVu">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="100"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Options" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="poA-zM-Iiq">
+                                        <rect key="frame" x="254" y="33" width="93" height="33"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="27"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sH2-ux-9Na">
+                                        <rect key="frame" x="552" y="35" width="40" height="30"/>
+                                        <state key="normal" title="Close">
+                                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="closingButton:" destination="EDb-fi-rdD" eventType="touchUpInside" id="Ls1-Vr-nNX"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="0.5" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="centerY" secondItem="poA-zM-Iiq" secondAttribute="centerY" constant="0.5" id="5N8-PA-Dz1"/>
+                                    <constraint firstAttribute="trailing" secondItem="sH2-ux-9Na" secondAttribute="trailing" constant="8" id="DHa-JD-Zaa"/>
+                                    <constraint firstAttribute="centerY" secondItem="sH2-ux-9Na" secondAttribute="centerY" id="Sh8-rh-9vJ"/>
+                                    <constraint firstAttribute="centerX" secondItem="poA-zM-Iiq" secondAttribute="centerX" constant="-0.5" id="lfr-vy-eXt"/>
+                                    <constraint firstAttribute="height" constant="100" id="qen-dZ-aGt"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="bnC-rP-lVu" firstAttribute="top" secondItem="Z0H-Av-7DI" secondAttribute="bottom" constant="-20" id="cgO-xw-F5i"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="bnC-rP-lVu" secondAttribute="trailing" constant="-16" id="j1q-8M-oj8"/>
+                            <constraint firstItem="bnC-rP-lVu" firstAttribute="leading" secondItem="HUl-RR-SZV" secondAttribute="leadingMargin" constant="-16" id="wAd-yL-DpH"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GoK-wW-pgC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1018" y="-167"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
@@ -66,12 +120,18 @@
                                         <integer key="value" value="6"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="EDb-fi-rdD" kind="show" id="wYN-rT-ZMb"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kAf-o2-6WU">
                                 <rect key="frame" x="537" y="20" width="47" height="30"/>
                                 <state key="normal" title="Details">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="Tyh-V3-oO8" kind="show" id="TrV-BA-MeY"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -95,6 +155,79 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
+        </scene>
+        <!--Detail View Controller-->
+        <scene sceneID="3pC-5p-UQd">
+            <objects>
+                <viewController id="Tyh-V3-oO8" customClass="DetailViewController" customModule="WaterFinderiOS" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Vv3-RX-JAf"/>
+                        <viewControllerLayoutGuide type="bottom" id="Wlv-Ld-BCf"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="gPE-UN-sGg">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wNZ-FX-ZMG">
+                                <rect key="frame" x="544" y="28" width="40" height="30"/>
+                                <state key="normal" title="Close">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="closingButton:" destination="Tyh-V3-oO8" eventType="touchUpInside" id="Irt-ER-Peo"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Distance from me:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8Dx-12-N0y">
+                                <rect key="frame" x="16" y="100" width="141" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Water use:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P52-We-3jV">
+                                <rect key="frame" x="16" y="130" width="82" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Last quality test:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1bn-iR-vdu">
+                                <rect key="frame" x="16" y="160" width="127" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Current refill wait time:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0gd-nw-3dF">
+                                <rect key="frame" x="16" y="190" width="172" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Average refill wait time:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kgv-ez-zvF">
+                                <rect key="frame" x="16" y="220" width="178" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="8Dx-12-N0y" firstAttribute="top" secondItem="Vv3-RX-JAf" secondAttribute="bottom" constant="80" id="5Sf-gB-wLD"/>
+                            <constraint firstItem="P52-We-3jV" firstAttribute="leading" secondItem="gPE-UN-sGg" secondAttribute="leadingMargin" id="9Am-Ai-cK5"/>
+                            <constraint firstItem="0gd-nw-3dF" firstAttribute="leading" secondItem="gPE-UN-sGg" secondAttribute="leadingMargin" id="AUr-G5-jcg"/>
+                            <constraint firstItem="P52-We-3jV" firstAttribute="top" secondItem="8Dx-12-N0y" secondAttribute="bottom" constant="9" id="CbV-h4-Hvs"/>
+                            <constraint firstItem="wNZ-FX-ZMG" firstAttribute="top" secondItem="Vv3-RX-JAf" secondAttribute="bottom" constant="8" id="Qh8-vi-eck"/>
+                            <constraint firstItem="1bn-iR-vdu" firstAttribute="top" secondItem="P52-We-3jV" secondAttribute="bottom" constant="9" id="YIZ-xb-NIY"/>
+                            <constraint firstItem="wNZ-FX-ZMG" firstAttribute="trailing" secondItem="gPE-UN-sGg" secondAttribute="trailingMargin" id="YwI-l7-SCf"/>
+                            <constraint firstItem="0gd-nw-3dF" firstAttribute="top" secondItem="1bn-iR-vdu" secondAttribute="bottom" constant="9" id="bgv-Dz-dOu"/>
+                            <constraint firstItem="Kgv-ez-zvF" firstAttribute="leading" secondItem="gPE-UN-sGg" secondAttribute="leadingMargin" id="wJK-x0-ZH3"/>
+                            <constraint firstItem="Kgv-ez-zvF" firstAttribute="top" secondItem="0gd-nw-3dF" secondAttribute="bottom" constant="9" id="wbs-wy-JVl"/>
+                            <constraint firstItem="1bn-iR-vdu" firstAttribute="leading" secondItem="gPE-UN-sGg" secondAttribute="leadingMargin" id="z8B-HK-LYK"/>
+                            <constraint firstItem="8Dx-12-N0y" firstAttribute="leading" secondItem="gPE-UN-sGg" secondAttribute="leadingMargin" id="zkR-Ap-oBV"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Tr2-MT-YXW" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1018" y="518"/>
         </scene>
     </scenes>
 </document>
