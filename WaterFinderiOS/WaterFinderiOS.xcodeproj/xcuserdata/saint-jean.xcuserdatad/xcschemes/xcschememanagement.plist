@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>WaterFinderApp.xcscheme</key>
+		<key>WaterFinderiOS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>784683991AF1AF0E00C3A917</key>
+		<key>783BEFD71AF1B0CD00CA655A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>784683B11AF1AF0E00C3A917</key>
+		<key>783BEFEF1AF1B0CD00CA655A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

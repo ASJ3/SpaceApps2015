@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7531" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="WaterFinderiOS" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="FFB-tf-icS">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </mapView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2K3-bH-YuV">
+                                <rect key="frame" x="0.0" y="560" width="600" height="40"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LBg-7t-4DY">
+                                        <rect key="frame" x="8" y="5" width="100" height="30"/>
+                                        <state key="normal" title="re-Center Map">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="recenterMap:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="BLd-TN-I52"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ebR-0a-r7V">
+                                        <rect key="frame" x="465" y="5" width="127" height="30"/>
+                                        <state key="normal" title="Change Map Style">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="changeMapType:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="o2J-Do-ywi"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="ebR-0a-r7V" secondAttribute="trailing" constant="8" id="2c1-F7-70l"/>
+                                    <constraint firstAttribute="centerY" secondItem="LBg-7t-4DY" secondAttribute="centerY" id="glc-DO-j1B"/>
+                                    <constraint firstAttribute="height" constant="40" id="jJ6-SX-vaH"/>
+                                    <constraint firstAttribute="centerY" secondItem="ebR-0a-r7V" secondAttribute="centerY" id="pyZ-4G-Kxq"/>
+                                    <constraint firstItem="LBg-7t-4DY" firstAttribute="leading" secondItem="2K3-bH-YuV" secondAttribute="leading" constant="8" id="zGS-FK-oZG"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jhb-xB-tQw">
+                                <rect key="frame" x="16" y="20" width="70" height="30"/>
+                                <color key="backgroundColor" white="0.25" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="70" id="mba-ge-bp2"/>
+                                </constraints>
+                                <state key="normal" title="Options">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="6"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kAf-o2-6WU">
+                                <rect key="frame" x="537" y="20" width="47" height="30"/>
+                                <state key="normal" title="Details">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="FFB-tf-icS" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="-20" id="1tr-GL-lLN"/>
+                            <constraint firstItem="jhb-xB-tQw" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="FjU-3L-mkY"/>
+                            <constraint firstItem="jhb-xB-tQw" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" id="Wxy-gX-BKk"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="FFB-tf-icS" secondAttribute="trailing" constant="-16" id="Z2P-AQ-vdU"/>
+                            <constraint firstItem="2K3-bH-YuV" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="-16" id="Z3h-Es-OHY"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="2K3-bH-YuV" secondAttribute="trailing" constant="-16" id="fSX-ok-9li"/>
+                            <constraint firstItem="kAf-o2-6WU" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" id="hgg-qj-VBx"/>
+                            <constraint firstItem="kAf-o2-6WU" firstAttribute="trailing" secondItem="kh9-bI-dsS" secondAttribute="trailingMargin" id="ioH-t9-cF0"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="2K3-bH-YuV" secondAttribute="bottom" id="oXB-73-JVf"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="FFB-tf-icS" secondAttribute="bottom" id="qHb-xg-Bh1"/>
+                            <constraint firstItem="FFB-tf-icS" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="-16" id="tlI-wE-D2V"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="mapView" destination="FFB-tf-icS" id="4JM-w6-QhG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

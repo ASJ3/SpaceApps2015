@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "784683991AF1AF0E00C3A917"
-               BuildableName = "WaterFinderApp.app"
-               BlueprintName = "WaterFinderApp"
-               ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+               BlueprintIdentifier = "783BEFD71AF1B0CD00CA655A"
+               BuildableName = "WaterFinderiOS.app"
+               BlueprintName = "WaterFinderiOS"
+               ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "784683B11AF1AF0E00C3A917"
-               BuildableName = "WaterFinderAppTests.xctest"
-               BlueprintName = "WaterFinderAppTests"
-               ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+               BlueprintIdentifier = "783BEFEF1AF1B0CD00CA655A"
+               BuildableName = "WaterFinderiOSTests.xctest"
+               BlueprintName = "WaterFinderiOSTests"
+               ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "784683B11AF1AF0E00C3A917"
-               BuildableName = "WaterFinderAppTests.xctest"
-               BlueprintName = "WaterFinderAppTests"
-               ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+               BlueprintIdentifier = "783BEFEF1AF1B0CD00CA655A"
+               BuildableName = "WaterFinderiOSTests.xctest"
+               BlueprintName = "WaterFinderiOSTests"
+               ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "784683991AF1AF0E00C3A917"
-            BuildableName = "WaterFinderApp.app"
-            BlueprintName = "WaterFinderApp"
-            ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+            BlueprintIdentifier = "783BEFD71AF1B0CD00CA655A"
+            BuildableName = "WaterFinderiOS.app"
+            BlueprintName = "WaterFinderiOS"
+            ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "784683991AF1AF0E00C3A917"
-            BuildableName = "WaterFinderApp.app"
-            BlueprintName = "WaterFinderApp"
-            ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+            BlueprintIdentifier = "783BEFD71AF1B0CD00CA655A"
+            BuildableName = "WaterFinderiOS.app"
+            BlueprintName = "WaterFinderiOS"
+            ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "784683991AF1AF0E00C3A917"
-            BuildableName = "WaterFinderApp.app"
-            BlueprintName = "WaterFinderApp"
-            ReferencedContainer = "container:WaterFinderApp.xcodeproj">
+            BlueprintIdentifier = "783BEFD71AF1B0CD00CA655A"
+            BuildableName = "WaterFinderiOS.app"
+            BlueprintName = "WaterFinderiOS"
+            ReferencedContainer = "container:WaterFinderiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

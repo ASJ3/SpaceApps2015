@@ -1,6 +1,6 @@
 //
-//  WaterFinderAppTests.swift
-//  WaterFinderAppTests
+//  WaterFinderiOSTests.swift
+//  WaterFinderiOSTests
 //
 //  Created by Alexis Saint-Jean on 4/30/15.
 //  Copyright (c) 2015 Alexis Saint-Jean. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class WaterFinderAppTests: XCTestCase {
+class WaterFinderiOSTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
