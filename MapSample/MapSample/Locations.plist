@@ -1,0 +1,4278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>Aton</string>
+        <key>info</key>
+        <string>10/08/2009</string>
+        <key>latitude</key>
+        <real>2.54687</real>
+        <key>longitude</key>
+        <real>32.91914</real>
+        <key>beneficiaries</key>
+        <string>222</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>10/08/2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acanata</string>
+        <key>info</key>
+        <string>01/22/2010</string>
+        <key>latitude</key>
+        <real>2.34324</real>
+        <key>longitude</key>
+        <real>32.21039</real>
+        <key>beneficiaries</key>
+        <string>234</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>01/22/2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apido</string>
+        <key>info</key>
+        <string>04/08/2010</string>
+        <key>latitude</key>
+        <real>2.04544</real>
+        <key>longitude</key>
+        <real>33.2418</real>
+        <key>beneficiaries</key>
+        <string>243</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>04/08/2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olakotato</string>
+        <key>info</key>
+        <string>01/06/2011</string>
+        <key>latitude</key>
+        <real>2.29937</real>
+        <key>longitude</key>
+        <real>33.34028</real>
+        <key>beneficiaries</key>
+        <string>248</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>01/06/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akogi</string>
+        <key>info</key>
+        <string>08/06/2011</string>
+        <key>latitude</key>
+        <real>2.09263</real>
+        <key>longitude</key>
+        <real>32.60214</real>
+        <key>beneficiaries</key>
+        <string>270</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>08/06/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bedimwolo</string>
+        <key>info</key>
+        <string>09/09/2011</string>
+        <key>latitude</key>
+        <real>2.3358</real>
+        <key>longitude</key>
+        <real>32.60214</real>
+        <key>beneficiaries</key>
+        <string>282</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>09/09/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Stove Factory</string>
+        <key>info</key>
+        <string>09/12/2011</string>
+        <key>latitude</key>
+        <real>2.24187</real>
+        <key>longitude</key>
+        <real>32.93062</real>
+        <key>beneficiaries</key>
+        <string>290</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>09/12/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Dwameri</string>
+        <key>info</key>
+        <string>10/31/2011</string>
+        <key>latitude</key>
+        <real>2.27272</real>
+        <key>longitude</key>
+        <real>33.14987</real>
+        <key>beneficiaries</key>
+        <string>300</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>10/31/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Oming</string>
+        <key>info</key>
+        <string>10/31/2011</string>
+        <key>latitude</key>
+        <real>2.40812</real>
+        <key>longitude</key>
+        <real>32.99584</real>
+        <key>beneficiaries</key>
+        <string>300</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>10/31/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olwer</string>
+        <key>info</key>
+        <string>11/04/2011</string>
+        <key>latitude</key>
+        <real>1.96087</real>
+        <key>longitude</key>
+        <real>32.73108</real>
+        <key>beneficiaries</key>
+        <string>300</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>11/04/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Janan</string>
+        <key>info</key>
+        <string>12/05/2011</string>
+        <key>latitude</key>
+        <real>2.19738</real>
+        <key>longitude</key>
+        <real>32.96213</real>
+        <key>beneficiaries</key>
+        <string>300</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>12/05/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acar</string>
+        <key>info</key>
+        <string>12/09/2011</string>
+        <key>latitude</key>
+        <real>2.3282</real>
+        <key>longitude</key>
+        <real>33.3572</real>
+        <key>beneficiaries</key>
+        <string>312</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>12/09/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odyekpe</string>
+        <key>info</key>
+        <string>01/25/2013</string>
+        <key>latitude</key>
+        <real>2.05854</real>
+        <key>longitude</key>
+        <real>32.79943</real>
+        <key>beneficiaries</key>
+        <string>312</string>
+        <key>donor</key>
+        <string>W2T #002</string>
+        <key>completed</key>
+        <string>01/25/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adyegi A</string>
+        <key>info</key>
+        <string>06/04/2013</string>
+        <key>latitude</key>
+        <real>2.1145</real>
+        <key>longitude</key>
+        <real>32.55735</real>
+        <key>beneficiaries</key>
+        <string>315</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>06/04/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acegi</string>
+        <key>info</key>
+        <string>06/27/2013</string>
+        <key>latitude</key>
+        <real>2.08611</real>
+        <key>longitude</key>
+        <real>32.66416</real>
+        <key>beneficiaries</key>
+        <string>315</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>06/27/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amwak</string>
+        <key>info</key>
+        <string>07/01/2013</string>
+        <key>latitude</key>
+        <real>2.07726</real>
+        <key>longitude</key>
+        <real>32.5872</real>
+        <key>beneficiaries</key>
+        <string>321</string>
+        <key>donor</key>
+        <string>W2T #002</string>
+        <key>completed</key>
+        <string>07/01/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Dim Dem</string>
+        <key>info</key>
+        <string>07/05/2013</string>
+        <key>latitude</key>
+        <real>2.53705</real>
+        <key>longitude</key>
+        <real>32.9145</real>
+        <key>beneficiaries</key>
+        <string>324</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>07/05/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acandano</string>
+        <key>info</key>
+        <string>07/12/2013</string>
+        <key>latitude</key>
+        <real>2.53985</real>
+        <key>longitude</key>
+        <real>32.85457</real>
+        <key>beneficiaries</key>
+        <string>324</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>07/12/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bung Central</string>
+        <key>info</key>
+        <string>07/19/2013</string>
+        <key>latitude</key>
+        <real>2.12183</real>
+        <key>longitude</key>
+        <real>32.6215</real>
+        <key>beneficiaries</key>
+        <string>325</string>
+        <key>donor</key>
+        <string>EA Breweries</string>
+        <key>completed</key>
+        <string>07/19/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olalango</string>
+        <key>info</key>
+        <string>08/30/2013</string>
+        <key>latitude</key>
+        <real>2.26402</real>
+        <key>longitude</key>
+        <real>32.36142</real>
+        <key>beneficiaries</key>
+        <string>330</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>08/30/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akado Ayubo</string>
+        <key>info</key>
+        <string>09/03/2013</string>
+        <key>latitude</key>
+        <real>2.11224</real>
+        <key>longitude</key>
+        <real>32.34244</real>
+        <key>beneficiaries</key>
+        <string>330</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>09/03/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agweng</string>
+        <key>info</key>
+        <string>09/10/2013</string>
+        <key>latitude</key>
+        <real>2.38261</real>
+        <key>longitude</key>
+        <real>33.15434</real>
+        <key>beneficiaries</key>
+        <string>340</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>09/10/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Cung itam</string>
+        <key>info</key>
+        <string>10/10/2013</string>
+        <key>latitude</key>
+        <real>2.68709</real>
+        <key>longitude</key>
+        <real>32.31824</real>
+        <key>beneficiaries</key>
+        <string>341</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>10/10/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okee</string>
+        <key>info</key>
+        <string>10/10/2013</string>
+        <key>latitude</key>
+        <real>2.52245</real>
+        <key>longitude</key>
+        <real>33.09063</real>
+        <key>beneficiaries</key>
+        <string>342</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>10/10/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Wapwoyo dugu gang</string>
+        <key>info</key>
+        <string>10/18/2013</string>
+        <key>latitude</key>
+        <real>2.93949</real>
+        <key>longitude</key>
+        <real>31.47975</real>
+        <key>beneficiaries</key>
+        <string>344</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>10/18/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ojul</string>
+        <key>info</key>
+        <string>11/05/2013</string>
+        <key>latitude</key>
+        <real>2.12814</real>
+        <key>longitude</key>
+        <real>33.19601</real>
+        <key>beneficiaries</key>
+        <string>350</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>11/05/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Lok kwoni</string>
+        <key>info</key>
+        <string>11/12/2013</string>
+        <key>latitude</key>
+        <real>2.65746</real>
+        <key>longitude</key>
+        <real>32.72767</real>
+        <key>beneficiaries</key>
+        <string>355</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>11/12/2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abwoc B</string>
+        <key>info</key>
+        <string>01/24/2014</string>
+        <key>latitude</key>
+        <real>2.13007</real>
+        <key>longitude</key>
+        <real>32.66817</real>
+        <key>beneficiaries</key>
+        <string>364</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>01/24/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odoo</string>
+        <key>info</key>
+        <string>01/30/2014</string>
+        <key>latitude</key>
+        <real>2.22148</real>
+        <key>longitude</key>
+        <real>33.3018</real>
+        <key>beneficiaries</key>
+        <string>366</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>01/30/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Odur</string>
+        <key>info</key>
+        <string>01/30/2014</string>
+        <key>latitude</key>
+        <real>2.24704</real>
+        <key>longitude</key>
+        <real>32.7297</real>
+        <key>beneficiaries</key>
+        <string>368</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>01/30/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akong Acelina</string>
+        <key>info</key>
+        <string>01/31/2014</string>
+        <key>latitude</key>
+        <real>2.50589</real>
+        <key>longitude</key>
+        <real>33.0532</real>
+        <key>beneficiaries</key>
+        <string>372</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>01/31/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alero</string>
+        <key>info</key>
+        <string>02/14/2014</string>
+        <key>latitude</key>
+        <real>2.09305</real>
+        <key>longitude</key>
+        <real>32.72712</real>
+        <key>beneficiaries</key>
+        <string>376</string>
+        <key>donor</key>
+        <string>W2T #002</string>
+        <key>completed</key>
+        <string>02/14/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bung</string>
+        <key>info</key>
+        <string>02/20/2014</string>
+        <key>latitude</key>
+        <real>1.92323</real>
+        <key>longitude</key>
+        <real>32.44085</real>
+        <key>beneficiaries</key>
+        <string>378</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>02/20/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aweo</string>
+        <key>info</key>
+        <string>02/26/2014</string>
+        <key>latitude</key>
+        <real>2.08104</real>
+        <key>longitude</key>
+        <real>32.99238</real>
+        <key>beneficiaries</key>
+        <string>380</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>02/26/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Onyong</string>
+        <key>info</key>
+        <string>03/02/2014</string>
+        <key>latitude</key>
+        <real>1.99167</real>
+        <key>longitude</key>
+        <real>32.79553</real>
+        <key>beneficiaries</key>
+        <string>384</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>03/02/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Gum pe nongi labedo B</string>
+        <key>info</key>
+        <string>03/07/2014</string>
+        <key>latitude</key>
+        <real>2.65516</real>
+        <key>longitude</key>
+        <real>32.3253</real>
+        <key>beneficiaries</key>
+        <string>385</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>03/07/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogili 4</string>
+        <key>info</key>
+        <string>03/19/2014</string>
+        <key>latitude</key>
+        <real>2.20717</real>
+        <key>longitude</key>
+        <real>32.46382</real>
+        <key>beneficiaries</key>
+        <string>389</string>
+        <key>donor</key>
+        <string>One Hundred</string>
+        <key>completed</key>
+        <string>03/19/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agedo</string>
+        <key>info</key>
+        <string>03/20/2014</string>
+        <key>latitude</key>
+        <real>2.32223</real>
+        <key>longitude</key>
+        <real>33.3304</real>
+        <key>beneficiaries</key>
+        <string>390</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>03/20/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Onini</string>
+        <key>info</key>
+        <string>03/21/2014</string>
+        <key>latitude</key>
+        <real>2.23694</real>
+        <key>longitude</key>
+        <real>33.33101</real>
+        <key>beneficiaries</key>
+        <string>390</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>03/21/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Woromite</string>
+        <key>info</key>
+        <string>03/22/2014</string>
+        <key>latitude</key>
+        <real>2.20949</real>
+        <key>longitude</key>
+        <real>32.9783</real>
+        <key>beneficiaries</key>
+        <string>390</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>03/22/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Engwao</string>
+        <key>info</key>
+        <string>04/17/2014</string>
+        <key>latitude</key>
+        <real>2.05902</real>
+        <key>longitude</key>
+        <real>33.12845</real>
+        <key>beneficiaries</key>
+        <string>400</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>04/17/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okoto</string>
+        <key>info</key>
+        <string>04/25/2014</string>
+        <key>latitude</key>
+        <real>2.28117</real>
+        <key>longitude</key>
+        <real>33.1989</real>
+        <key>beneficiaries</key>
+        <string>402</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>04/25/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okoto</string>
+        <key>info</key>
+        <string>04/29/2014</string>
+        <key>latitude</key>
+        <real>2.28836</real>
+        <key>longitude</key>
+        <real>32.20173</real>
+        <key>beneficiaries</key>
+        <string>402</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>04/29/2014</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Otit</string>
+        <key>info</key>
+        <string>13/09/2011</string>
+        <key>latitude</key>
+        <real>2.44095</real>
+        <key>longitude</key>
+        <real>33.08889</real>
+        <key>beneficiaries</key>
+        <string>408</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>13/09/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olil B</string>
+        <key>info</key>
+        <string>14/09/2011</string>
+        <key>latitude</key>
+        <real>2.11737</real>
+        <key>longitude</key>
+        <real>32.92163</real>
+        <key>beneficiaries</key>
+        <string>410</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>14/09/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adula A</string>
+        <key>info</key>
+        <string>15/09/2011</string>
+        <key>latitude</key>
+        <real>2.20662</real>
+        <key>longitude</key>
+        <real>32.58973</real>
+        <key>beneficiaries</key>
+        <string>412</string>
+        <key>donor</key>
+        <string>W2T #002</string>
+        <key>completed</key>
+        <string>15/09/2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Wu dii kor wa</string>
+        <key>info</key>
+        <string>April 1 2007</string>
+        <key>latitude</key>
+        <real>2.84346</real>
+        <key>longitude</key>
+        <real>32.19079</real>
+        <key>beneficiaries</key>
+        <string>416</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 1 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apumi</string>
+        <key>info</key>
+        <string>April 1 2010</string>
+        <key>latitude</key>
+        <real>2.1354</real>
+        <key>longitude</key>
+        <real>32.70942</real>
+        <key>beneficiaries</key>
+        <string>416</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>April 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agweng</string>
+        <key>info</key>
+        <string>April 1 2011</string>
+        <key>latitude</key>
+        <real>2.16148</real>
+        <key>longitude</key>
+        <real>32.93893</real>
+        <key>beneficiaries</key>
+        <string>420</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>April 1 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aleko</string>
+        <key>info</key>
+        <string>April 10 2009</string>
+        <key>latitude</key>
+        <real>2.08647</real>
+        <key>longitude</key>
+        <real>32.67988</real>
+        <key>beneficiaries</key>
+        <string>425</string>
+        <key>donor</key>
+        <string>EA Breweries</string>
+        <key>completed</key>
+        <string>April 10 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ajo Odur</string>
+        <key>info</key>
+        <string>April 12 2007</string>
+        <key>latitude</key>
+        <real>2.1376</real>
+        <key>longitude</key>
+        <real>32.58237</real>
+        <key>beneficiaries</key>
+        <string>432</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>April 12 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Angwenyi</string>
+        <key>info</key>
+        <string>April 13 2010</string>
+        <key>latitude</key>
+        <real>2.22816</real>
+        <key>longitude</key>
+        <real>32.9976</real>
+        <key>beneficiaries</key>
+        <string>432</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>April 13 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omino</string>
+        <key>info</key>
+        <string>April 16 2007</string>
+        <key>latitude</key>
+        <real>2.35495</real>
+        <key>longitude</key>
+        <real>33.4348</real>
+        <key>beneficiaries</key>
+        <string>435</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 16 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apyelokweri</string>
+        <key>info</key>
+        <string>April 16 2009</string>
+        <key>latitude</key>
+        <real>2.1784</real>
+        <key>longitude</key>
+        <real>33.01077</real>
+        <key>beneficiaries</key>
+        <string>450</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>April 16 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ti matek pi pit</string>
+        <key>info</key>
+        <string>April 17 2007</string>
+        <key>latitude</key>
+        <real>2.66133</real>
+        <key>longitude</key>
+        <real>32.28617</real>
+        <key>beneficiaries</key>
+        <string>450</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 17 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odokomit B</string>
+        <key>info</key>
+        <string>April 17 2008</string>
+        <key>latitude</key>
+        <real>2.59157</real>
+        <key>longitude</key>
+        <real>32.25807</real>
+        <key>beneficiaries</key>
+        <string>450</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 17 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odokomit A</string>
+        <key>info</key>
+        <string>April 18 2007</string>
+        <key>latitude</key>
+        <real>2.58944</real>
+        <key>longitude</key>
+        <real>32.26221</real>
+        <key>beneficiaries</key>
+        <string>450</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 18 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Akor</string>
+        <key>info</key>
+        <string>April 18 2008</string>
+        <key>latitude</key>
+        <real>2.11967</real>
+        <key>longitude</key>
+        <real>33.18153</real>
+        <key>beneficiaries</key>
+        <string>450</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>April 18 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amambale A</string>
+        <key>info</key>
+        <string>April 19 2007</string>
+        <key>latitude</key>
+        <real>2.11261</real>
+        <key>longitude</key>
+        <real>32.68463</real>
+        <key>beneficiaries</key>
+        <string>454</string>
+        <key>donor</key>
+        <string>EA Breweries</string>
+        <key>completed</key>
+        <string>April 19 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Awiliwunga</string>
+        <key>info</key>
+        <string>April 20 2007</string>
+        <key>latitude</key>
+        <real>2.28576</real>
+        <key>longitude</key>
+        <real>33.92226</real>
+        <key>beneficiaries</key>
+        <string>456</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 20 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omara</string>
+        <key>info</key>
+        <string>April 26 2011</string>
+        <key>latitude</key>
+        <real>2.21233</real>
+        <key>longitude</key>
+        <real>33.18918</real>
+        <key>beneficiaries</key>
+        <string>460</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>April 26 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olio</string>
+        <key>info</key>
+        <string>April 27 2010</string>
+        <key>latitude</key>
+        <real>2.03462</real>
+        <key>longitude</key>
+        <real>32.85637</real>
+        <key>beneficiaries</key>
+        <string>460</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>April 27 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okarowok</string>
+        <key>info</key>
+        <string>April 27 2011</string>
+        <key>latitude</key>
+        <real>2.39291</real>
+        <key>longitude</key>
+        <real>33.17791</real>
+        <key>beneficiaries</key>
+        <string>466</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 27 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Teyao</string>
+        <key>info</key>
+        <string>April 4 2007</string>
+        <key>latitude</key>
+        <real>2.26161</real>
+        <key>longitude</key>
+        <real>33.02769</real>
+        <key>beneficiaries</key>
+        <string>468</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 4 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Lwala B</string>
+        <key>info</key>
+        <string>April 5 2007</string>
+        <key>latitude</key>
+        <real>2.12363</real>
+        <key>longitude</key>
+        <real>32.64892</real>
+        <key>beneficiaries</key>
+        <string>468</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>April 5 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Otelo Nyor</string>
+        <key>info</key>
+        <string>April 5 2011</string>
+        <key>latitude</key>
+        <real>2.35499</real>
+        <key>longitude</key>
+        <real>32.97708</real>
+        <key>beneficiaries</key>
+        <string>470</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>April 5 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Lapit pe ool A</string>
+        <key>info</key>
+        <string>April 6 2011</string>
+        <key>latitude</key>
+        <real>2.87539</real>
+        <key>longitude</key>
+        <real>32.19076</real>
+        <key>beneficiaries</key>
+        <string>474</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 6 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Lapit pe ool B</string>
+        <key>info</key>
+        <string>April 7 2007</string>
+        <key>latitude</key>
+        <real>2.87428</real>
+        <key>longitude</key>
+        <real>32.19664</real>
+        <key>beneficiaries</key>
+        <string>474</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 7 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agweng</string>
+        <key>info</key>
+        <string>April 7 2010</string>
+        <key>latitude</key>
+        <real>2.11371</real>
+        <key>longitude</key>
+        <real>33.1276</real>
+        <key>beneficiaries</key>
+        <string>479</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>April 7 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alemi</string>
+        <key>info</key>
+        <string>April 8 2009</string>
+        <key>latitude</key>
+        <real>2.21781</real>
+        <key>longitude</key>
+        <real>33.394</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>April 8 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alek Olwonga</string>
+        <key>info</key>
+        <string>April 8 2009</string>
+        <key>latitude</key>
+        <real>2.32001</real>
+        <key>longitude</key>
+        <real>33.24852</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>April 8 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Barr</string>
+        <key>info</key>
+        <string>April 9 2007</string>
+        <key>latitude</key>
+        <real>2.09396</real>
+        <key>longitude</key>
+        <real>32.73713</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>April 9 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Awio</string>
+        <key>info</key>
+        <string>April 9 2009</string>
+        <key>latitude</key>
+        <real>2.35799</real>
+        <key>longitude</key>
+        <real>33.21014</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>April 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogobi</string>
+        <key>info</key>
+        <string>August 11 2008</string>
+        <key>latitude</key>
+        <real>2.02766</real>
+        <key>longitude</key>
+        <real>32.72281</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>August 11 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Opwodorwot</string>
+        <key>info</key>
+        <string>August 12 2006</string>
+        <key>latitude</key>
+        <real>2.56592</real>
+        <key>longitude</key>
+        <real>32.8041</real>
+        <key>beneficiaries</key>
+        <string>480</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>August 12 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anyero Angwal</string>
+        <key>info</key>
+        <string>August 15 2006</string>
+        <key>latitude</key>
+        <real>2.18768</real>
+        <key>longitude</key>
+        <real>33.42584</real>
+        <key>beneficiaries</key>
+        <string>483</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>August 15 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okot Tom</string>
+        <key>info</key>
+        <string>August 15 2011</string>
+        <key>latitude</key>
+        <real>2.59686</real>
+        <key>longitude</key>
+        <real>32.92768</real>
+        <key>beneficiaries</key>
+        <string>483</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 15 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogetoiicok</string>
+        <key>info</key>
+        <string>August 16 2010</string>
+        <key>latitude</key>
+        <real>2.07545</real>
+        <key>longitude</key>
+        <real>33.3258</real>
+        <key>beneficiaries</key>
+        <string>485</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>August 16 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akitepia</string>
+        <key>info</key>
+        <string>August 16 2011</string>
+        <key>latitude</key>
+        <real>2.17493</real>
+        <key>longitude</key>
+        <real>33.34562</real>
+        <key>beneficiaries</key>
+        <string>487</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>August 16 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adiyo</string>
+        <key>info</key>
+        <string>August 17 2011</string>
+        <key>latitude</key>
+        <real>2.25665</real>
+        <key>longitude</key>
+        <real>33.00827</real>
+        <key>beneficiaries</key>
+        <string>490</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 17 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bung</string>
+        <key>info</key>
+        <string>August 17 2011</string>
+        <key>latitude</key>
+        <real>2.09935</real>
+        <key>longitude</key>
+        <real>33.13473</real>
+        <key>beneficiaries</key>
+        <string>490</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 17 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agweng</string>
+        <key>info</key>
+        <string>August 17 2011</string>
+        <key>latitude</key>
+        <real>2.34495</real>
+        <key>longitude</key>
+        <real>33.12621</real>
+        <key>beneficiaries</key>
+        <string>491</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>August 17 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obanga Ber</string>
+        <key>info</key>
+        <string>August 18 2011</string>
+        <key>latitude</key>
+        <real>2.13146</real>
+        <key>longitude</key>
+        <real>33.20236</real>
+        <key>beneficiaries</key>
+        <string>495</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 18 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apiremit</string>
+        <key>info</key>
+        <string>August 18 2011</string>
+        <key>latitude</key>
+        <real>2.1524</real>
+        <key>longitude</key>
+        <real>32.69115</real>
+        <key>beneficiaries</key>
+        <string>496</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>August 18 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Angur</string>
+        <key>info</key>
+        <string>August 19 2011</string>
+        <key>latitude</key>
+        <real>2.19179</real>
+        <key>longitude</key>
+        <real>32.5899</real>
+        <key>beneficiaries</key>
+        <string>498</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>August 19 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Baronger</string>
+        <key>info</key>
+        <string>August 25 2008</string>
+        <key>latitude</key>
+        <real>2.24593</real>
+        <key>longitude</key>
+        <real>32.83546</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>August 25 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abel</string>
+        <key>info</key>
+        <string>August 26 2010</string>
+        <key>latitude</key>
+        <real>2.20717</real>
+        <key>longitude</key>
+        <real>33.35421</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 26 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Iwal</string>
+        <key>info</key>
+        <string>August 31 2010</string>
+        <key>latitude</key>
+        <real>2.1007</real>
+        <key>longitude</key>
+        <real>32.76151</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>August 31 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amadwong</string>
+        <key>info</key>
+        <string>December 1 2006</string>
+        <key>latitude</key>
+        <real>2.11689</real>
+        <key>longitude</key>
+        <real>33.18973</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>December 1 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aguru</string>
+        <key>info</key>
+        <string>December 1 2012</string>
+        <key>latitude</key>
+        <real>2.39316</real>
+        <key>longitude</key>
+        <real>32.97007</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>December 1 2012</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odek</string>
+        <key>info</key>
+        <string>December 10 2007</string>
+        <key>latitude</key>
+        <real>2.27693</real>
+        <key>longitude</key>
+        <real>33.37641</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>December 10 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Awito</string>
+        <key>info</key>
+        <string>December 11 2007</string>
+        <key>latitude</key>
+        <real>2.04571</real>
+        <key>longitude</key>
+        <real>33.21718</real>
+        <key>beneficiaries</key>
+        <string>500</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>December 11 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alira B</string>
+        <key>info</key>
+        <string>December 13 2006</string>
+        <key>latitude</key>
+        <real>2.08286</real>
+        <key>longitude</key>
+        <real>32.76189</real>
+        <key>beneficiaries</key>
+        <string>502</string>
+        <key>donor</key>
+        <string>EA Breweries</string>
+        <key>completed</key>
+        <string>December 13 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Tam pi diki</string>
+        <key>info</key>
+        <string>December 16 2006</string>
+        <key>latitude</key>
+        <real>2.86468</real>
+        <key>longitude</key>
+        <real>32.10658</real>
+        <key>beneficiaries</key>
+        <string>504</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 16 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Peko lobo</string>
+        <key>info</key>
+        <string>December 2 2006</string>
+        <key>latitude</key>
+        <real>2.94284</real>
+        <key>longitude</key>
+        <real>32.0078</real>
+        <key>beneficiaries</key>
+        <string>505</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 2 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Teilwa</string>
+        <key>info</key>
+        <string>December 21 2009</string>
+        <key>latitude</key>
+        <real>2.10814</real>
+        <key>longitude</key>
+        <real>33.00852</real>
+        <key>beneficiaries</key>
+        <string>510</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>December 21 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adyegi Ibanda</string>
+        <key>info</key>
+        <string>December 3 2007</string>
+        <key>latitude</key>
+        <real>2.08185</real>
+        <key>longitude</key>
+        <real>32.50142</real>
+        <key>beneficiaries</key>
+        <string>514</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>December 3 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Teobwolo</string>
+        <key>info</key>
+        <string>December 4 2006</string>
+        <key>latitude</key>
+        <real>2.36696</real>
+        <key>longitude</key>
+        <real>33.18183</real>
+        <key>beneficiaries</key>
+        <string>516</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 4 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Rwot omiya</string>
+        <key>info</key>
+        <string>December 5 2006</string>
+        <key>latitude</key>
+        <real>2.66856</real>
+        <key>longitude</key>
+        <real>32.33395</real>
+        <key>beneficiaries</key>
+        <string>522</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 5 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Enget</string>
+        <key>info</key>
+        <string>December 5 2007</string>
+        <key>latitude</key>
+        <real>1.99539</real>
+        <key>longitude</key>
+        <real>33.21753</real>
+        <key>beneficiaries</key>
+        <string>522</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 5 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Jing cwiny</string>
+        <key>info</key>
+        <string>December 6 2006</string>
+        <key>latitude</key>
+        <real>2.70949</real>
+        <key>longitude</key>
+        <real>32.35865</real>
+        <key>beneficiaries</key>
+        <string>525</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>December 6 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adagayela (Atar HC)</string>
+        <key>info</key>
+        <string>December 6 2007</string>
+        <key>latitude</key>
+        <real>2.20424</real>
+        <key>longitude</key>
+        <real>32.59577</real>
+        <key>beneficiaries</key>
+        <string>526</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>December 6 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Yatamenya</string>
+        <key>info</key>
+        <string>February 1 2011</string>
+        <key>latitude</key>
+        <real>2.26774</real>
+        <key>longitude</key>
+        <real>33.12676</real>
+        <key>beneficiaries</key>
+        <string>528</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>February 1 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Imat Sara</string>
+        <key>info</key>
+        <string>February 11 2010</string>
+        <key>latitude</key>
+        <real>2.49883</real>
+        <key>longitude</key>
+        <real>32.83714</real>
+        <key>beneficiaries</key>
+        <string>530</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>February 11 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abyenek</string>
+        <key>info</key>
+        <string>February 12 2013</string>
+        <key>latitude</key>
+        <real>2.61728</real>
+        <key>longitude</key>
+        <real>32.88114</real>
+        <key>beneficiaries</key>
+        <string>534</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>February 12 2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acan dek Pe</string>
+        <key>info</key>
+        <string>February 16 2007</string>
+        <key>latitude</key>
+        <real>2.0893</real>
+        <key>longitude</key>
+        <real>32.54506</real>
+        <key>beneficiaries</key>
+        <string>540</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>February 16 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Gum pe nongi labedo A</string>
+        <key>info</key>
+        <string>February 17 2007</string>
+        <key>latitude</key>
+        <real>2.65357</real>
+        <key>longitude</key>
+        <real>32.31784</real>
+        <key>beneficiaries</key>
+        <string>540</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>February 17 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Baradu</string>
+        <key>info</key>
+        <string>February 19 2008</string>
+        <key>latitude</key>
+        <real>2.10793</real>
+        <key>longitude</key>
+        <real>32.66874</real>
+        <key>beneficiaries</key>
+        <string>540</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>February 19 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Nagwere HC III</string>
+        <key>info</key>
+        <string>February 2 2010</string>
+        <key>latitude</key>
+        <real>1.16247</real>
+        <key>longitude</key>
+        <real>33.86649</real>
+        <key>beneficiaries</key>
+        <string>540</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>February 2 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olilim</string>
+        <key>info</key>
+        <string>February 20 2007</string>
+        <key>latitude</key>
+        <real>2.1412</real>
+        <key>longitude</key>
+        <real>33.10107</real>
+        <key>beneficiaries</key>
+        <string>541</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>February 20 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okello</string>
+        <key>info</key>
+        <string>February 20 2008</string>
+        <key>latitude</key>
+        <real>2.11418</real>
+        <key>longitude</key>
+        <real>33.24353</real>
+        <key>beneficiaries</key>
+        <string>550</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>February 20 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okwalomoko</string>
+        <key>info</key>
+        <string>February 21 2008</string>
+        <key>latitude</key>
+        <real>2.01084</real>
+        <key>longitude</key>
+        <real>33.1828</real>
+        <key>beneficiaries</key>
+        <string>552</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>February 21 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anyige</string>
+        <key>info</key>
+        <string>February 22 2010</string>
+        <key>latitude</key>
+        <real>2.00372</real>
+        <key>longitude</key>
+        <real>32.6268</real>
+        <key>beneficiaries</key>
+        <string>554</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>February 22 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acori</string>
+        <key>info</key>
+        <string>February 25 2010</string>
+        <key>latitude</key>
+        <real>2.03703</real>
+        <key>longitude</key>
+        <real>32.22931</real>
+        <key>beneficiaries</key>
+        <string>560</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>February 25 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abot</string>
+        <key>info</key>
+        <string>February 27 2008</string>
+        <key>latitude</key>
+        <real>2.46242</real>
+        <key>longitude</key>
+        <real>33.08347</real>
+        <key>beneficiaries</key>
+        <string>560</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>February 27 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ker paco B</string>
+        <key>info</key>
+        <string>February 28 2013</string>
+        <key>latitude</key>
+        <real>2.68844</real>
+        <key>longitude</key>
+        <real>32.3587</real>
+        <key>beneficiaries</key>
+        <string>563</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>February 28 2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ker paco A</string>
+        <key>info</key>
+        <string>January 1 2009</string>
+        <key>latitude</key>
+        <real>2.68325</real>
+        <key>longitude</key>
+        <real>32.36323</real>
+        <key>beneficiaries</key>
+        <string>563</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>January 1 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Itang</string>
+        <key>info</key>
+        <string>January 13 2011</string>
+        <key>latitude</key>
+        <real>2.16288</real>
+        <key>longitude</key>
+        <real>33.27607</real>
+        <key>beneficiaries</key>
+        <string>564</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>January 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Angole nyang</string>
+        <key>info</key>
+        <string>Janurary 15 2010</string>
+        <key>latitude</key>
+        <real>2.02369</real>
+        <key>longitude</key>
+        <real>32.69901</real>
+        <key>beneficiaries</key>
+        <string>565</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>Janurary 15 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apitpit</string>
+        <key>info</key>
+        <string>July 1 2007</string>
+        <key>latitude</key>
+        <real>2.17721</real>
+        <key>longitude</key>
+        <real>33.11173</real>
+        <key>beneficiaries</key>
+        <string>565</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 1 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olor</string>
+        <key>info</key>
+        <string>July 1 2010</string>
+        <key>latitude</key>
+        <real>2.08407</real>
+        <key>longitude</key>
+        <real>33.20609</real>
+        <key>beneficiaries</key>
+        <string>576</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>July 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Inyer</string>
+        <key>info</key>
+        <string>July 10 2009</string>
+        <key>latitude</key>
+        <real>2.00868</real>
+        <key>longitude</key>
+        <real>32.70259</real>
+        <key>beneficiaries</key>
+        <string>580</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>July 10 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Otit</string>
+        <key>info</key>
+        <string>July 11 2011</string>
+        <key>latitude</key>
+        <real>2.09968</real>
+        <key>longitude</key>
+        <real>32.98535</real>
+        <key>beneficiaries</key>
+        <string>582</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abelesi</string>
+        <key>info</key>
+        <string>July 11 2011</string>
+        <key>latitude</key>
+        <real>1.91571</real>
+        <key>longitude</key>
+        <real>33.18607</real>
+        <key>beneficiaries</key>
+        <string>582</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>July 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akwoyo</string>
+        <key>info</key>
+        <string>July 12 2006</string>
+        <key>latitude</key>
+        <real>2.08134</real>
+        <key>longitude</key>
+        <real>33.20447</real>
+        <key>beneficiaries</key>
+        <string>600</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 12 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akenya Frank</string>
+        <key>info</key>
+        <string>July 12 2011</string>
+        <key>latitude</key>
+        <real>2.57538</real>
+        <key>longitude</key>
+        <real>32.94209</real>
+        <key>beneficiaries</key>
+        <string>600</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 12 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obanga Ber</string>
+        <key>info</key>
+        <string>July 12 2011</string>
+        <key>latitude</key>
+        <real>2.15424</real>
+        <key>longitude</key>
+        <real>32.93257</real>
+        <key>beneficiaries</key>
+        <string>603</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 12 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Apio</string>
+        <key>info</key>
+        <string>July 13 2011</string>
+        <key>latitude</key>
+        <real>2.24122</real>
+        <key>longitude</key>
+        <real>32.74008</real>
+        <key>beneficiaries</key>
+        <string>620</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Okeng Padi</string>
+        <key>info</key>
+        <string>July 13 2011</string>
+        <key>latitude</key>
+        <real>2.27383</real>
+        <key>longitude</key>
+        <real>33.24598</real>
+        <key>beneficiaries</key>
+        <string>620</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obwala</string>
+        <key>info</key>
+        <string>July 14 2011</string>
+        <key>latitude</key>
+        <real>2.11253</real>
+        <key>longitude</key>
+        <real>33.31857</real>
+        <key>beneficiaries</key>
+        <string>620</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 14 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ajulina</string>
+        <key>info</key>
+        <string>July 15 2008</string>
+        <key>latitude</key>
+        <real>2.26539</real>
+        <key>longitude</key>
+        <real>33.11713</real>
+        <key>beneficiaries</key>
+        <string>620</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 15 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Owidi</string>
+        <key>info</key>
+        <string>July 15 2011</string>
+        <key>latitude</key>
+        <real>2.09708</real>
+        <key>longitude</key>
+        <real>33.27061</real>
+        <key>beneficiaries</key>
+        <string>630</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 15 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omyelo.onoro</string>
+        <key>info</key>
+        <string>July 15 2011</string>
+        <key>latitude</key>
+        <real>2.17708</real>
+        <key>longitude</key>
+        <real>32.98671</real>
+        <key>beneficiaries</key>
+        <string>630</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 15 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okello Amuku</string>
+        <key>info</key>
+        <string>July 16 2009</string>
+        <key>latitude</key>
+        <real>2.3193</real>
+        <key>longitude</key>
+        <real>32.8205</real>
+        <key>beneficiaries</key>
+        <string>636</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 16 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aconyongobalagak</string>
+        <key>info</key>
+        <string>July 19 2006</string>
+        <key>latitude</key>
+        <real>2.12563</real>
+        <key>longitude</key>
+        <real>33.21826</real>
+        <key>beneficiaries</key>
+        <string>640</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 19 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Elepo</string>
+        <key>info</key>
+        <string>July 2 2007</string>
+        <key>latitude</key>
+        <real>2.06859</real>
+        <key>longitude</key>
+        <real>32.23438</real>
+        <key>beneficiaries</key>
+        <string>640</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 2 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akaidebe</string>
+        <key>info</key>
+        <string>July 22 2010</string>
+        <key>latitude</key>
+        <real>2.10817</real>
+        <key>longitude</key>
+        <real>33.00851</real>
+        <key>beneficiaries</key>
+        <string>640</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 22 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Opweteta HC III BH 2</string>
+        <key>info</key>
+        <string>July 25 2006</string>
+        <key>latitude</key>
+        <real>1.25162</real>
+        <key>longitude</key>
+        <real>33.84992</real>
+        <key>beneficiaries</key>
+        <string>645</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>July 25 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alaibung</string>
+        <key>info</key>
+        <string>July 26 2006</string>
+        <key>latitude</key>
+        <real>2.08091</real>
+        <key>longitude</key>
+        <real>32.69606</real>
+        <key>beneficiaries</key>
+        <string>650</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>July 26 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agony</string>
+        <key>info</key>
+        <string>July 27 2010</string>
+        <key>latitude</key>
+        <real>2.19057</real>
+        <key>longitude</key>
+        <real>32.84059</real>
+        <key>beneficiaries</key>
+        <string>650</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 27 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Epila</string>
+        <key>info</key>
+        <string>July 3 2009</string>
+        <key>latitude</key>
+        <real>2.20912</real>
+        <key>longitude</key>
+        <real>33.14522</real>
+        <key>beneficiaries</key>
+        <string>650</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 3 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ocom</string>
+        <key>info</key>
+        <string>July 6 2006</string>
+        <key>latitude</key>
+        <real>2.21527</real>
+        <key>longitude</key>
+        <real>33.12726</real>
+        <key>beneficiaries</key>
+        <string>650</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 6 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Wiabam</string>
+        <key>info</key>
+        <string>July 7 2006</string>
+        <key>latitude</key>
+        <real>2.45713</real>
+        <key>longitude</key>
+        <real>33.05002</real>
+        <key>beneficiaries</key>
+        <string>650</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 7 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Orinyo</string>
+        <key>info</key>
+        <string>July 7 2007</string>
+        <key>latitude</key>
+        <real>2.04804</real>
+        <key>longitude</key>
+        <real>33.16616</real>
+        <key>beneficiaries</key>
+        <string>660</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 7 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogengo</string>
+        <key>info</key>
+        <string>July 7 2008</string>
+        <key>latitude</key>
+        <real>2.24927</real>
+        <key>longitude</key>
+        <real>32.91165</real>
+        <key>beneficiaries</key>
+        <string>662</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>July 7 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Gum pat pat</string>
+        <key>info</key>
+        <string>July 7 2010</string>
+        <key>latitude</key>
+        <real>2.92652</real>
+        <key>longitude</key>
+        <real>32.16455</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>July 7 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Topeyero Main</string>
+        <key>info</key>
+        <string>July 8 2007</string>
+        <key>latitude</key>
+        <real>2.04814</real>
+        <key>longitude</key>
+        <real>32.64381</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>July 8 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okello</string>
+        <key>info</key>
+        <string>July 9 2011</string>
+        <key>latitude</key>
+        <real>2.5164</real>
+        <key>longitude</key>
+        <real>32.59489</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>July 9 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okello Yokonani</string>
+        <key>info</key>
+        <string>Jun3 14 2009</string>
+        <key>latitude</key>
+        <real>2.45561</real>
+        <key>longitude</key>
+        <real>32.61678</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>Jun3 14 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ocen</string>
+        <key>info</key>
+        <string>June 1 2008</string>
+        <key>latitude</key>
+        <real>2.59344</real>
+        <key>longitude</key>
+        <real>32.79679</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 1 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anyiki</string>
+        <key>info</key>
+        <string>June 11 2009</string>
+        <key>latitude</key>
+        <real>2.14363</real>
+        <key>longitude</key>
+        <real>33.18805</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 11 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Amnon</string>
+        <key>info</key>
+        <string>June 16 2008</string>
+        <key>latitude</key>
+        <real>2.18966</real>
+        <key>longitude</key>
+        <real>33.14452</real>
+        <key>beneficiaries</key>
+        <string>680</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 16 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alam</string>
+        <key>info</key>
+        <string>June 17 2008</string>
+        <key>latitude</key>
+        <real>2.05357</real>
+        <key>longitude</key>
+        <real>32.65793</real>
+        <key>beneficiaries</key>
+        <string>681</string>
+        <key>donor</key>
+        <string>W2T #001</string>
+        <key>completed</key>
+        <string>June 17 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acaya</string>
+        <key>info</key>
+        <string>June 19 2007</string>
+        <key>latitude</key>
+        <real>2.32432</real>
+        <key>longitude</key>
+        <real>33.35097</real>
+        <key>beneficiaries</key>
+        <string>684</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>June 19 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abunga</string>
+        <key>info</key>
+        <string>June 2 2009</string>
+        <key>latitude</key>
+        <real>2.30709</real>
+        <key>longitude</key>
+        <real>32.77803</real>
+        <key>beneficiaries</key>
+        <string>687</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 2 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omeo</string>
+        <key>info</key>
+        <string>June 20 2006</string>
+        <key>latitude</key>
+        <real>1.98588</real>
+        <key>longitude</key>
+        <real>32.83581</real>
+        <key>beneficiaries</key>
+        <string>690</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>June 20 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abwa</string>
+        <key>info</key>
+        <string>June 21 2007</string>
+        <key>latitude</key>
+        <real>2.07268</real>
+        <key>longitude</key>
+        <real>33.30269</real>
+        <key>beneficiaries</key>
+        <string>696</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>June 21 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ilua</string>
+        <key>info</key>
+        <string>June 21 2010</string>
+        <key>latitude</key>
+        <real>1.98158</real>
+        <key>longitude</key>
+        <real>32.73094</real>
+        <key>beneficiaries</key>
+        <string>700</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 21 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Otara</string>
+        <key>info</key>
+        <string>June 22 2007</string>
+        <key>latitude</key>
+        <real>2.1524</real>
+        <key>longitude</key>
+        <real>32.74863</real>
+        <key>beneficiaries</key>
+        <string>700</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 22 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Nyim Alobo</string>
+        <key>info</key>
+        <string>June 27 2009</string>
+        <key>latitude</key>
+        <real>2.48136</real>
+        <key>longitude</key>
+        <real>33.05569</real>
+        <key>beneficiaries</key>
+        <string>700</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 27 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ading</string>
+        <key>info</key>
+        <string>June 29 2009</string>
+        <key>latitude</key>
+        <real>2.44539</real>
+        <key>longitude</key>
+        <real>33.13187</real>
+        <key>beneficiaries</key>
+        <string>700</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akamdini</string>
+        <key>info</key>
+        <string>June 29 2009</string>
+        <key>latitude</key>
+        <real>2.17748</real>
+        <key>longitude</key>
+        <real>33.38213</real>
+        <key>beneficiaries</key>
+        <string>715</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>June 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ekwaro</string>
+        <key>info</key>
+        <string>June 29 2009</string>
+        <key>latitude</key>
+        <real>2.27058</real>
+        <key>longitude</key>
+        <real>32.81468</real>
+        <key>beneficiaries</key>
+        <string>720</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>June 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adai</string>
+        <key>info</key>
+        <string>June 29 2010</string>
+        <key>latitude</key>
+        <real>2.47457</real>
+        <key>longitude</key>
+        <real>33.18328</real>
+        <key>beneficiaries</key>
+        <string>720</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 29 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alongo Omato Olel</string>
+        <key>info</key>
+        <string>June 30 2007</string>
+        <key>latitude</key>
+        <real>2.43231</real>
+        <key>longitude</key>
+        <real>33.29344</real>
+        <key>beneficiaries</key>
+        <string>720</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>June 30 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Orem</string>
+        <key>info</key>
+        <string>June 9 2009</string>
+        <key>latitude</key>
+        <real>2.32505</real>
+        <key>longitude</key>
+        <real>33.0358</real>
+        <key>beneficiaries</key>
+        <string>720</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>June 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apurber</string>
+        <key>info</key>
+        <string>June 9 2010</string>
+        <key>latitude</key>
+        <real>2.54172</real>
+        <key>longitude</key>
+        <real>32.81138</real>
+        <key>beneficiaries</key>
+        <string>724</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>June 9 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amwak</string>
+        <key>info</key>
+        <string>March 1 2011</string>
+        <key>latitude</key>
+        <real>2.0613</real>
+        <key>longitude</key>
+        <real>32.59146</real>
+        <key>beneficiaries</key>
+        <string>730</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>March 1 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Eyama</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.13144</real>
+        <key>longitude</key>
+        <real>33.27826</real>
+        <key>beneficiaries</key>
+        <string>740</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Agwec</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.0706</real>
+        <key>longitude</key>
+        <real>33.07355</real>
+        <key>beneficiaries</key>
+        <string>744</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akulu Akar</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.39351</real>
+        <key>longitude</key>
+        <real>33.07067</real>
+        <key>beneficiaries</key>
+        <string>750</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aburlobo</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.11938</real>
+        <key>longitude</key>
+        <real>33.14837</real>
+        <key>beneficiaries</key>
+        <string>750</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Teiponga SW</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.31</real>
+        <key>longitude</key>
+        <real>33.09351</real>
+        <key>beneficiaries</key>
+        <string>756</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amon Oloco</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.06896</real>
+        <key>longitude</key>
+        <real>32.63668</real>
+        <key>beneficiaries</key>
+        <string>774</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Arai</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.2139</real>
+        <key>longitude</key>
+        <real>32.79909</real>
+        <key>beneficiaries</key>
+        <string>780</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ongica.A</string>
+        <key>info</key>
+        <string>March 11 2011</string>
+        <key>latitude</key>
+        <real>2.23751</real>
+        <key>longitude</key>
+        <real>33.84414</real>
+        <key>beneficiaries</key>
+        <string>786</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>March 11 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Oyiro</string>
+        <key>info</key>
+        <string>March 17 2009</string>
+        <key>latitude</key>
+        <real>2.47457</real>
+        <key>longitude</key>
+        <real>32.58337</real>
+        <key>beneficiaries</key>
+        <string>790</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 17 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akutu</string>
+        <key>info</key>
+        <string>March 23 2007</string>
+        <key>latitude</key>
+        <real>2.23596</real>
+        <key>longitude</key>
+        <real>33.05711</real>
+        <key>beneficiaries</key>
+        <string>798</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>March 23 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okwir Awil</string>
+        <key>info</key>
+        <string>March 23 2009</string>
+        <key>latitude</key>
+        <real>2.5472</real>
+        <key>longitude</key>
+        <real>33.23319</real>
+        <key>beneficiaries</key>
+        <string>800</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 23 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okello Gabi</string>
+        <key>info</key>
+        <string>March 23 2011</string>
+        <key>latitude</key>
+        <real>2.41758</real>
+        <key>longitude</key>
+        <real>33.04173</real>
+        <key>beneficiaries</key>
+        <string>800</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 23 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Nyim Odyek</string>
+        <key>info</key>
+        <string>March 28 2007</string>
+        <key>latitude</key>
+        <real>2.33874</real>
+        <key>longitude</key>
+        <real>33.02848</real>
+        <key>beneficiaries</key>
+        <string>800</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 28 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akwangi</string>
+        <key>info</key>
+        <string>March 28 2013</string>
+        <key>latitude</key>
+        <real>2.19905</real>
+        <key>longitude</key>
+        <real>33.38058</real>
+        <key>beneficiaries</key>
+        <string>800</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 28 2013</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Afranco</string>
+        <key>info</key>
+        <string>March 29 2007</string>
+        <key>latitude</key>
+        <real>2.2946</real>
+        <key>longitude</key>
+        <real>33.30118</real>
+        <key>beneficiaries</key>
+        <string>820</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 29 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omara Agany</string>
+        <key>info</key>
+        <string>March 29 2011</string>
+        <key>latitude</key>
+        <real>2.12955</real>
+        <key>longitude</key>
+        <real>33.03638</real>
+        <key>beneficiaries</key>
+        <string>850</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 29 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alokogil</string>
+        <key>info</key>
+        <string>March 30 2007</string>
+        <key>latitude</key>
+        <real>2.10052</real>
+        <key>longitude</key>
+        <real>33.28454</real>
+        <key>beneficiaries</key>
+        <string>850</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 30 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Te-cwao</string>
+        <key>info</key>
+        <string>March 30 2011</string>
+        <key>latitude</key>
+        <real>2.21508</real>
+        <key>longitude</key>
+        <real>33.11637</real>
+        <key>beneficiaries</key>
+        <string>850</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 30 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olanyotai</string>
+        <key>info</key>
+        <string>March 31 2006</string>
+        <key>latitude</key>
+        <real>1.94079</real>
+        <key>longitude</key>
+        <real>32.67153</real>
+        <key>beneficiaries</key>
+        <string>855</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>March 31 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Atine</string>
+        <key>info</key>
+        <string>March 9 2009</string>
+        <key>latitude</key>
+        <real>2.13901</real>
+        <key>longitude</key>
+        <real>33.21561</real>
+        <key>beneficiaries</key>
+        <string>874</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>March 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akokowo</string>
+        <key>info</key>
+        <string>May 11 2008</string>
+        <key>latitude</key>
+        <real>2.16181</real>
+        <key>longitude</key>
+        <real>33.21776</real>
+        <key>beneficiaries</key>
+        <string>880</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 11 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apwati</string>
+        <key>info</key>
+        <string>May 11 2010</string>
+        <key>latitude</key>
+        <real>2.39543</real>
+        <key>longitude</key>
+        <real>32.56851</real>
+        <key>beneficiaries</key>
+        <string>890</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 11 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Putti HC II</string>
+        <key>info</key>
+        <string>May 20 2010</string>
+        <key>latitude</key>
+        <real>1.1375</real>
+        <key>longitude</key>
+        <real>34.09218</real>
+        <key>beneficiaries</key>
+        <string>900</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>May 20 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Akolo</string>
+        <key>info</key>
+        <string>May 20 2010</string>
+        <key>latitude</key>
+        <real>2.13417</real>
+        <key>longitude</key>
+        <real>32.68307</real>
+        <key>beneficiaries</key>
+        <string>900</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 20 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ariti</string>
+        <key>info</key>
+        <string>May 25 2010</string>
+        <key>latitude</key>
+        <real>2.11989</real>
+        <key>longitude</key>
+        <real>33.01572</real>
+        <key>beneficiaries</key>
+        <string>900</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 25 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bar Odong</string>
+        <key>info</key>
+        <string>May 29 2009</string>
+        <key>latitude</key>
+        <real>1.97982</real>
+        <key>longitude</key>
+        <real>32.51618</real>
+        <key>beneficiaries</key>
+        <string>906</string>
+        <key>donor</key>
+        <string>W2T #002</string>
+        <key>completed</key>
+        <string>May 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Opota</string>
+        <key>info</key>
+        <string>May 29 2009</string>
+        <key>latitude</key>
+        <real>2.10456</real>
+        <key>longitude</key>
+        <real>33.32407</real>
+        <key>beneficiaries</key>
+        <string>910</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akongo</string>
+        <key>info</key>
+        <string>May 29 2009</string>
+        <key>latitude</key>
+        <real>2.21634</real>
+        <key>longitude</key>
+        <real>32.87744</real>
+        <key>beneficiaries</key>
+        <string>930</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 29 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Tegot</string>
+        <key>info</key>
+        <string>May 3 2010</string>
+        <key>latitude</key>
+        <real>2.3642</real>
+        <key>longitude</key>
+        <real>33.97979</real>
+        <key>beneficiaries</key>
+        <string>942</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>May 3 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Kwiri lonyo</string>
+        <key>info</key>
+        <string>May 4 2010</string>
+        <key>latitude</key>
+        <real>2.69161</real>
+        <key>longitude</key>
+        <real>32.34073</real>
+        <key>beneficiaries</key>
+        <string>950</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>May 4 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ajo Alira</string>
+        <key>info</key>
+        <string>May 5 2011</string>
+        <key>latitude</key>
+        <real>2.35491</real>
+        <key>longitude</key>
+        <real>33.02079</real>
+        <key>beneficiaries</key>
+        <string>950</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 5 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obali</string>
+        <key>info</key>
+        <string>May 6 2010</string>
+        <key>latitude</key>
+        <real>2.22103</real>
+        <key>longitude</key>
+        <real>32.81694</real>
+        <key>beneficiaries</key>
+        <string>960</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 6 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Atodi</string>
+        <key>info</key>
+        <string>May 7 2008</string>
+        <key>latitude</key>
+        <real>2.29343</real>
+        <key>longitude</key>
+        <real>32.88558</real>
+        <key>beneficiaries</key>
+        <string>960</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>May 7 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Oming</string>
+        <key>info</key>
+        <string>May 8 2008</string>
+        <key>latitude</key>
+        <real>2.20391</real>
+        <key>longitude</key>
+        <real>33.16369</real>
+        <key>beneficiaries</key>
+        <string>961</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>May 8 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Kanyum HC II</string>
+        <key>info</key>
+        <string>November 12 2007</string>
+        <key>latitude</key>
+        <real>1.2406</real>
+        <key>longitude</key>
+        <real>33.89312</real>
+        <key>beneficiaries</key>
+        <string>969</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>November 12 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abany Annex Primary School (Angulu)</string>
+        <key>info</key>
+        <string>November 21 2012</string>
+        <key>latitude</key>
+        <real>2.02069</real>
+        <key>longitude</key>
+        <real>32.78518</real>
+        <key>beneficiaries</key>
+        <string>970</string>
+        <key>donor</key>
+        <string>EA Breweries</string>
+        <key>completed</key>
+        <string>November 21 2012</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Baropok A</string>
+        <key>info</key>
+        <string>November 30 2006</string>
+        <key>latitude</key>
+        <real>2.04472</real>
+        <key>longitude</key>
+        <real>32.61391</real>
+        <key>beneficiaries</key>
+        <string>975</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>November 30 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Elwa</string>
+        <key>info</key>
+        <string>November 4 2005</string>
+        <key>latitude</key>
+        <real>2.24201</real>
+        <key>longitude</key>
+        <real>32.85819</real>
+        <key>beneficiaries</key>
+        <string>976</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>November 4 2005</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okec</string>
+        <key>info</key>
+        <string>November 4 2008</string>
+        <key>latitude</key>
+        <real>1.97828</real>
+        <key>longitude</key>
+        <real>32.8554</real>
+        <key>beneficiaries</key>
+        <string>978</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>November 4 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aneri</string>
+        <key>info</key>
+        <string>November 5 2007</string>
+        <key>latitude</key>
+        <real>1.91307</real>
+        <key>longitude</key>
+        <real>32.96465</real>
+        <key>beneficiaries</key>
+        <string>980</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>November 5 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Awele</string>
+        <key>info</key>
+        <string>November 6 2007</string>
+        <key>latitude</key>
+        <real>2.43581</real>
+        <key>longitude</key>
+        <real>32.57971</real>
+        <key>beneficiaries</key>
+        <string>1000</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>November 6 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Dago</string>
+        <key>info</key>
+        <string>November 9 2009</string>
+        <key>latitude</key>
+        <real>2.2405</real>
+        <key>longitude</key>
+        <real>32.93433</real>
+        <key>beneficiaries</key>
+        <string>1000</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>November 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abenon</string>
+        <key>info</key>
+        <string>November 9 2009</string>
+        <key>latitude</key>
+        <real>2.4179</real>
+        <key>longitude</key>
+        <real>32.6601</real>
+        <key>beneficiaries</key>
+        <string>1000</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>November 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Atyena owee</string>
+        <key>info</key>
+        <string>November 9 2009</string>
+        <key>latitude</key>
+        <real>2.26125</real>
+        <key>longitude</key>
+        <real>33.04938</real>
+        <key>beneficiaries</key>
+        <string>1056</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>November 9 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Olago</string>
+        <key>info</key>
+        <string>October 10 2012</string>
+        <key>latitude</key>
+        <real>2.27026</real>
+        <key>longitude</key>
+        <real>32.83705</real>
+        <key>beneficiaries</key>
+        <string>1080</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>October 10 2012</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Engol</string>
+        <key>info</key>
+        <string>October 12 2006</string>
+        <key>latitude</key>
+        <real>2.25302</real>
+        <key>longitude</key>
+        <real>33.3074</real>
+        <key>beneficiaries</key>
+        <string>1090</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 12 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Aput</string>
+        <key>info</key>
+        <string>October 15 2009</string>
+        <key>latitude</key>
+        <real>2.17255</real>
+        <key>longitude</key>
+        <real>33.29459</real>
+        <key>beneficiaries</key>
+        <string>1092</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>October 15 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Mary</string>
+        <key>info</key>
+        <string>October 16 2009</string>
+        <key>latitude</key>
+        <real>2.17143</real>
+        <key>longitude</key>
+        <real>33.00621</real>
+        <key>beneficiaries</key>
+        <string>1100</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 16 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anyambet</string>
+        <key>info</key>
+        <string>October 16 2009</string>
+        <key>latitude</key>
+        <real>2.07894</real>
+        <key>longitude</key>
+        <real>33.06694</real>
+        <key>beneficiaries</key>
+        <string>1100</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 16 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Pida</string>
+        <key>info</key>
+        <string>October 18 2006</string>
+        <key>latitude</key>
+        <real>1.86692</real>
+        <key>longitude</key>
+        <real>32.36042</real>
+        <key>beneficiaries</key>
+        <string>1,128</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>October 18 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogwang Ocogo</string>
+        <key>info</key>
+        <string>October 2 2008</string>
+        <key>latitude</key>
+        <real>2.29799</real>
+        <key>longitude</key>
+        <real>32.86651</real>
+        <key>beneficiaries</key>
+        <string>1155</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>October 2 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Lubanga aye twero</string>
+        <key>info</key>
+        <string>October 2 2008</string>
+        <key>latitude</key>
+        <real>2.69418</real>
+        <key>longitude</key>
+        <real>32.29654</real>
+        <key>beneficiaries</key>
+        <string>1177</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>October 2 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Kotomor</string>
+        <key>info</key>
+        <string>October 20 2011</string>
+        <key>latitude</key>
+        <real>2.64266</real>
+        <key>longitude</key>
+        <real>33.33833</real>
+        <key>beneficiaries</key>
+        <string>1,200</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 20 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Otyang</string>
+        <key>info</key>
+        <string>October 24 2006</string>
+        <key>latitude</key>
+        <real>2.25717</real>
+        <key>longitude</key>
+        <real>32.97175</real>
+        <key>beneficiaries</key>
+        <string>1,200</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 24 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amoo Olel</string>
+        <key>info</key>
+        <string>October 29 2007</string>
+        <key>latitude</key>
+        <real>2.26294</real>
+        <key>longitude</key>
+        <real>32.95363</real>
+        <key>beneficiaries</key>
+        <string>1,230</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>October 29 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ejang Kurinuda</string>
+        <key>info</key>
+        <string>October 29 2008</string>
+        <key>latitude</key>
+        <real>2.34215</real>
+        <key>longitude</key>
+        <real>33.17666</real>
+        <key>beneficiaries</key>
+        <string>1250</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>October 29 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akwali</string>
+        <key>info</key>
+        <string>October 30 2005</string>
+        <key>latitude</key>
+        <real>1.95983</real>
+        <key>longitude</key>
+        <real>33.25849</real>
+        <key>beneficiaries</key>
+        <string>1260</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>October 30 2005</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Atingtwoo</string>
+        <key>info</key>
+        <string>October 30 2007</string>
+        <key>latitude</key>
+        <real>2.22329</real>
+        <key>longitude</key>
+        <real>33.05178</real>
+        <key>beneficiaries</key>
+        <string>1,266</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>October 30 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Awita</string>
+        <key>info</key>
+        <string>October 31 2007</string>
+        <key>latitude</key>
+        <real>2.276</real>
+        <key>longitude</key>
+        <real>32.84676</real>
+        <key>beneficiaries</key>
+        <string>1320</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>October 31 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Chelekura HC II</string>
+        <key>info</key>
+        <string>October 7 2008</string>
+        <key>latitude</key>
+        <real>1.28183</real>
+        <key>longitude</key>
+        <real>33.67813</real>
+        <key>beneficiaries</key>
+        <string>1,373</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>October 7 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alai</string>
+        <key>info</key>
+        <string>October 7 2008</string>
+        <key>latitude</key>
+        <real>2.09983</real>
+        <key>longitude</key>
+        <real>32.71319</real>
+        <key>beneficiaries</key>
+        <string>2196</string>
+        <key>donor</key>
+        <string>CW 50</string>
+        <key>completed</key>
+        <string>October 7 2008</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obutet HC II</string>
+        <key>info</key>
+        <string>October 9 2011</string>
+        <key>latitude</key>
+        <real>1.26839</real>
+        <key>longitude</key>
+        <real>33.57033</real>
+        <key>beneficiaries</key>
+        <string>2,610</string>
+        <key>donor</key>
+        <string>HH+ Gimbel</string>
+        <key>completed</key>
+        <string>October 9 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Akello</string>
+        <key>info</key>
+        <string>September 1 2010</string>
+        <key>latitude</key>
+        <real>2.23546</real>
+        <key>longitude</key>
+        <real>33.01594</real>
+        <key>beneficiaries</key>
+        <string>342 (or 820)</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Kwoyo Atar</string>
+        <key>info</key>
+        <string>September 1 2010</string>
+        <key>latitude</key>
+        <real>2.34046</real>
+        <key>longitude</key>
+        <real>32.97651</real>
+        <key>beneficiaries</key>
+        <string>700</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amin Bua</string>
+        <key>info</key>
+        <string>September 1 2010</string>
+        <key>latitude</key>
+        <real>2.12881</real>
+        <key>longitude</key>
+        <real>33.23443</real>
+        <key>beneficiaries</key>
+        <string>400</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apwony</string>
+        <key>info</key>
+        <string>September 1 2010</string>
+        <key>latitude</key>
+        <real>2.17941</real>
+        <key>longitude</key>
+        <real>32.88533</real>
+        <key>beneficiaries</key>
+        <string>600</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 1 2010</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>John</string>
+        <key>info</key>
+        <string>September 10 2007</string>
+        <key>latitude</key>
+        <real>2.35456</real>
+        <key>longitude</key>
+        <real>32.84977</real>
+        <key>beneficiaries</key>
+        <string>800</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 10 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akwototo</string>
+        <key>info</key>
+        <string>September 13 2011</string>
+        <key>latitude</key>
+        <real>2.18426</real>
+        <key>longitude</key>
+        <real>33.21788</real>
+        <key>beneficiaries</key>
+        <string>981</string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Onyany (Health Center)</string>
+        <key>info</key>
+        <string>September 13 2011</string>
+        <key>latitude</key>
+        <real>1.73206</real>
+        <key>longitude</key>
+        <real>32.49808</real>
+        <key>beneficiaries</key>
+        <string>409: (13,000 patients)</string>
+        <key>donor</key>
+        <string>Gimbel</string>
+        <key>completed</key>
+        <string>September 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acandyang</string>
+        <key>info</key>
+        <string>September 13 2011</string>
+        <key>latitude</key>
+        <real>2.26776</real>
+        <key>longitude</key>
+        <real>33.12687</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>September 13 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Adeknino</string>
+        <key>info</key>
+        <string>September 14 2006</string>
+        <key>latitude</key>
+        <real>2.16034</real>
+        <key>longitude</key>
+        <real>33.06597</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>September 14 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anaiober</string>
+        <key>info</key>
+        <string>September 14 2011</string>
+        <key>latitude</key>
+        <real>2.2935</real>
+        <key>longitude</key>
+        <real>32.88519</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>September 14 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bur Lela</string>
+        <key>info</key>
+        <string>September 15 2006</string>
+        <key>latitude</key>
+        <real>2.49111</real>
+        <key>longitude</key>
+        <real>33.50008</real>
+        <key>beneficiaries</key>
+        <string>April 28 2009</string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>September 15 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Owinyo</string>
+        <key>info</key>
+        <string>September 15 2011</string>
+        <key>latitude</key>
+        <real>2.21975</real>
+        <key>longitude</key>
+        <real>32.96204</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>CW</string>
+        <key>completed</key>
+        <string>September 15 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ajuki</string>
+        <key>info</key>
+        <string>September 16 2009</string>
+        <key>latitude</key>
+        <real>2.16185</real>
+        <key>longitude</key>
+        <real>33.18892</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 16 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Orik</string>
+        <key>info</key>
+        <string>September 16 2011</string>
+        <key>latitude</key>
+        <real>2.49294</real>
+        <key>longitude</key>
+        <real>32.63073</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 16 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ajia</string>
+        <key>info</key>
+        <string>September 20 2011</string>
+        <key>latitude</key>
+        <real>2.23046</real>
+        <key>longitude</key>
+        <real>32.98321</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 20 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omara</string>
+        <key>info</key>
+        <string>September 21 2009</string>
+        <key>latitude</key>
+        <real>2.50308</real>
+        <key>longitude</key>
+        <real>32.63076</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 21 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okore</string>
+        <key>info</key>
+        <string>September 22 2006</string>
+        <key>latitude</key>
+        <real>2.55183</real>
+        <key>longitude</key>
+        <real>33.25879</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 22 2006</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odugu</string>
+        <key>info</key>
+        <string>September 23 2009</string>
+        <key>latitude</key>
+        <real>2.26766</real>
+        <key>longitude</key>
+        <real>33.44573</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 23 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akong Awio</string>
+        <key>info</key>
+        <string>September 24 2009</string>
+        <key>latitude</key>
+        <real>2.51717</real>
+        <key>longitude</key>
+        <real>33.2547</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 24 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Te Okuto</string>
+        <key>info</key>
+        <string>September 4 2007</string>
+        <key>latitude</key>
+        <real>2.43356</real>
+        <key>longitude</key>
+        <real>33.10211</real>
+        <key>beneficiaries</key>
+        <string></string>
+        <key>donor</key>
+        <string>ILF</string>
+        <key>completed</key>
+        <string>September 4 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Abedi (Primary School)</string>
+        <key>info</key>
+        <string>September 5 2007</string>
+        <key>latitude</key>
+        <real>2.05648</real>
+        <key>longitude</key>
+        <real>32.41223</real>
+        <key>beneficiaries</key>
+        <string>1500</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>September 5 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anginyi</string>
+        <key>info</key>
+        <string>September 6 2007</string>
+        <key>latitude</key>
+        <real>1.9848</real>
+        <key>longitude</key>
+        <real>32.72651</real>
+        <key>beneficiaries</key>
+        <string>260</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>September 6 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Apoki</string>
+        <key>info</key>
+        <string>September 7 2007</string>
+        <key>latitude</key>
+        <real>2.04928</real>
+        <key>longitude</key>
+        <real>32.51704</real>
+        <key>beneficiaries</key>
+        <string>835</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>September 7 2007</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Atopi</string>
+        <key>info</key>
+        <string>September 7 2009</string>
+        <key>latitude</key>
+        <real>1.97577</real>
+        <key>longitude</key>
+        <real>32.4954</real>
+        <key>beneficiaries</key>
+        <string>1800</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>September 7 2009</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ogungu</string>
+        <key>info</key>
+        <string>September 9 2011</string>
+        <key>latitude</key>
+        <real>1.15344</real>
+        <key>longitude</key>
+        <real>32.7444</real>
+        <key>beneficiaries</key>
+        <string>425</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>September 9 2011</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Acandyang</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.01054</real>
+        <key>longitude</key>
+        <real>32.60385</real>
+        <key>beneficiaries</key>
+        <string>1540</string>
+        <key>donor</key>
+        <string>GW #001</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Ongica</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.08565</real>
+        <key>longitude</key>
+        <real>32.60235</real>
+        <key>beneficiaries</key>
+        <string>1505</string>
+        <key>donor</key>
+        <string>Charity Water</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Teogali</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.12538</real>
+        <key>longitude</key>
+        <real>32.71439</real>
+        <key>beneficiaries</key>
+        <string>3118</string>
+        <key>donor</key>
+        <string>Charity Water</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Telela</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.08819</real>
+        <key>longitude</key>
+        <real>32.82313</real>
+        <key>beneficiaries</key>
+        <string>1336</string>
+        <key>donor</key>
+        <string>Charity Water</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okile</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.17077</real>
+        <key>longitude</key>
+        <real>33.06137</real>
+        <key>beneficiaries</key>
+        <string>2525</string>
+        <key>donor</key>
+        <string>Charity Water</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Odek</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.27693</real>
+        <key>longitude</key>
+        <real>33.37641</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>Charity Water</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Akar</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.27693</real>
+        <key>longitude</key>
+        <real>33.37641</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alwala</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>1.71669</real>
+        <key>longitude</key>
+        <real>32.11624</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Okwerowilabongo</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>231787</real>
+        <key>longitude</key>
+        <real>471574</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Amuria</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.31659</real>
+        <key>longitude</key>
+        <real>33.23146</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Awiny</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.35055</real>
+        <key>longitude</key>
+        <real>33.22176</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Alyec</string>
+        <key>info</key>
+        <string>_</string>
+        <key>latitude</key>
+        <real>2.26217</real>
+        <key>longitude</key>
+        <real>33.24042</real>
+        <key>beneficiaries</key>
+        <string>_</string>
+        <key>donor</key>
+        <string>3 Avocado</string>
+        <key>completed</key>
+        <string>_</string>
+    </dict>
+</array>
+</plist>
